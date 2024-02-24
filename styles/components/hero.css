@@ -100,7 +100,7 @@
 }
 
 /* xl */
-@media (min-width: 1208px) {
+@media (min-width: 1280px) {
   .hero {
     margin-top: 3rem;
     gap: 2rem;
